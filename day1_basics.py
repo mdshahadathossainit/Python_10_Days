@@ -4,6 +4,7 @@ print("===Day1: Basics===")
 name=input("write your name:")
 age=int(input("write your age:"))
 roll=int(input("write your roll"))
+<<<<<<< HEAD
 print(f"Hello {name},{age+5},{roll}")
 
 
@@ -40,3 +41,6 @@ elif op == "**":
     print("Result:", num1 ** num2)
 else:
     print("Invalid operator!")
+=======
+print(f"Hello {name},{age+5},{roll}")
+>>>>>>> a2a571f9f1d8d7ae7c5b10f0ad810824370bf053
